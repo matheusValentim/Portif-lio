@@ -1,0 +1,35 @@
+<style type="text/css">
+body{}
+.conteudo{
+	background: gray;
+	width: 26%;
+	padding: 8px;
+	margin: 80px auto;
+	border-style: double;
+	border-color: black;
+	box-shadow: 5px 10px;
+	border-radius: 3px;
+}
+.titulo{
+	text-align: center;
+	font-family: Courier New;
+	font-size: 36px;
+	color: black;
+}
+.texto{
+	background: gray;
+	width: 90%;
+	padding: 50px;
+	border-style: double;
+	border-color: black;
+	box-shadow: 3px 4px;
+	border-radius: 15px;
+}
+.formação{
+	font-family: Courier New;
+	text-align: left
+	font-size: 26px;
+}
+
+
+</style>
